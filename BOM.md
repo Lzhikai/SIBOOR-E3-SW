@@ -48,7 +48,7 @@
 |               | Omron TL-Q5MC2-Z                             | 1          | OMRON                |
 |               | ADXL345 PCB                                  | 1          | /                    |
 |               | ADXL345 lineup                               | 1          | SIBOOR               |
-|               | E3D V6 hotend                                | 1          | SIBOOR               |
+|               | V6 hotend                                | 1          | SIBOOR               |
 |               | 24V 65W Heating（6×15mm Wire length 15cm）     | 1          | SIBOOR               |
 |               | NTC 3950 100K（3×15mm Wire length 15cm）       | 1          | SIBOOR               |
 |               | klipper expansion board                      |            | FYS                  |
