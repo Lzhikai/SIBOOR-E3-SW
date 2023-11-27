@@ -56,7 +56,7 @@
 |               | STM32 for MINI 12864 Display Converters      | 1          | FYS                  |
 |               | TYPE-C cable 0.75 meters                     | 1          | /                    |
 |               | Android Data Cable 0.5m                      | 2          | /                    |
-|               | LED strip light 24V white 100mm wide         | 1          | /                    |
+|               | LED strip light 24V white 100mm wire         | 1          | /                    |
 |               | Micro Switch（15CM）                           | 1          | SIBOOR               |
 | Cable Section | Toolhead PCB 14PIN+2PIN Teflon wire          | 1          | SIBOOR               |
 |               | raspberry Power supply line                  | 1          | /                    |
