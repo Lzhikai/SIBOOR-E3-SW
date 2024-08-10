@@ -11,6 +11,13 @@ The modifications are as follows
 
 Currently the instructions and videos are being made in a hurry, please assemble according to the CAD file, if you encounter problems, you can demand help in discord.
 
+## Notes
+
+### Display (Fysetc STM32 Mini 12864)
+The display's USB controller interface needs to be flashed to Klipper firmware. See https://github.com/VoronDesign/Voron-Hardware/tree/master/STM32_Mini12864/ for more information
+
+Hint: Recent versions of Klipper come with more options under "Optional features (to reduce code size)", which aren't mentioned on the display's GitHub page. Remove everything except for all "bit banging" options and "Support LCD devices" to receive a working firmware file.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 Original open source link：https://github.com/boubounokefalos/Ender_SW
 architect (of a project)：DaRk_dOg
